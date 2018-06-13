@@ -5,3 +5,4 @@
 ## 日本語表示テスト
 
 (test1.md)[test1]
+[test1.md](test1)
