@@ -3,5 +3,5 @@
 _includes/配下にあるものは、includeで読み込むことができるのか？
 
 ```
-{{ include: hoge.md }}
+{{ include: hoge.md | escape }}
 ```
