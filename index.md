@@ -8,3 +8,7 @@
  - [test1へ](test1)
  - [コード](test2)
  - [include](test3)
+
+## 目次
+
+{% include toc.html html=content %}
