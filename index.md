@@ -11,7 +11,5 @@
 
 ## 目次
 ```
-{% raw %}
-{% include toc.html html=content %}
-{% endraw %}
+include toc.html html=content
 ```
