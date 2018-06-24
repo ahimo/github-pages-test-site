@@ -9,3 +9,11 @@ _includes/配下にあるものは、includeで読み込むことができるの
 ```
 
 {% include footer.html %}
+
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
