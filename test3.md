@@ -5,5 +5,5 @@ _includes/配下にあるものは、includeで読み込むことができるの
 ``` md
 {{ raw }}
 {{ include: hoge.md }}
-{{ end raw }}
+{{ endraw }}
 ```
