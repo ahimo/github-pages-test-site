@@ -2,6 +2,6 @@
 
 ## コード
 
-```javascript
+```js
 const a = '<h1>Hello Wrold!</h1>'
 ```
