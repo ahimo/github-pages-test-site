@@ -4,7 +4,7 @@ _includes/配下にあるものは、includeで読み込むことができるの
 
 ```
 {% raw %}
-{{ include: hoge.md }}
+{{ include hoge.md }}
 {% endraw %}
 ```
 
