@@ -8,4 +8,4 @@ _includes/配下にあるものは、includeで読み込むことができるの
 {% endraw %}
 ```
 
-{{ include: footer.html }}
+{% include: footer.html %}
