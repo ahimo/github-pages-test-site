@@ -3,7 +3,7 @@
 _includes/配下にあるものは、includeで読み込むことができるのか？
 
 ``` md
-{{ raw }}
+{% raw %}
 {{ include: hoge.md }}
-{{ endraw }}
+{% endraw %}
 ```
